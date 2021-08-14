@@ -9,7 +9,7 @@ def Diff(num1,num2):
 
 
 result1 = Sum(1, 9)
-print('sum of two numbers is',result1)
+print('sum of 2 numbers is',result1)
 
 result2 = Diff(9999, 1111)
-print('Difference between two numbers is',result2)
+print('Difference between 2 numbers is',result2)
